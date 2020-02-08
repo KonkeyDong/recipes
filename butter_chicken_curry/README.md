@@ -23,7 +23,7 @@
 
 1. Add the chopped chicken thighs and canned tomato sauce. Lock the lid into place and turn the Instant Pot on Pressure Cook High for 7 minutes. Once finished, turn the Instant Pot Off, then perform a Quick Release to release the steam pressure. Once the valve button drops, unlock the lid and remove.
 
-1. Stir in the heavy cream. Set the Instant Pot on Sauté again and simmer for 2 minutes to thicken the sauce. Sprinkle with chopped cilantro and serve with basmati rice.
+1. Stir in the heavy cream. Set the Instant Pot on Sauté again and simmer for 2 minutes to thicken the sauce. Sprinkle with chopped cilantro and serve with [seasoned basmati rice](../stovetop_rice/README.md).
 
 ## Notes
 
