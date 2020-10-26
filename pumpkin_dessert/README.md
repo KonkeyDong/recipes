@@ -12,7 +12,9 @@
 1. 1 Pkg. of yellow cake mix (Duncan Heinz)
 1. 3/4 Cup of melted butter
 
-1 9 X 13 baking pan
+## Hardware
+
+1. 9 X 13 baking pan
 
 ## Recipe
 
