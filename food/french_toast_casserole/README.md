@@ -34,24 +34,24 @@
 1. Coat a baking dish with cooking spray.
 1. **Tear bread into bite-size chunks**. Arrange into even layer in greased baking dish.
 1. Whisk together the custard ingredients in a large bowl until smooth and combined:
-  * 8 Large eggs.
-  * 3 Cups of half-and-half.
-  * 1/2 Cup packed light brown sugar.
-  * 1 Tbsp. vanilla extract.
-  * 1 Tsp. ground cinnamon.
-  * 1/2 Tsp. kosher salt.
-  * 1/4 Tsp. ground nutmeg.
+   * 8 Large eggs.
+   * 3 Cups of half-and-half.
+   * 1/2 Cup packed light brown sugar.
+   * 1 Tbsp. vanilla extract.
+   * 1 Tsp. ground cinnamon.
+   * 1/2 Tsp. kosher salt.
+   * 1/4 Tsp. ground nutmeg.
 1. Pour custard over bread.
 1. Press bread down slightly into the custard.
 1. Cover and refrigerate **at least overnight or up to 24 hours**.
-  * Or, to bake right away, let sit for 1 hour at room temperature to give bread time to absorb custard.
+   * Or, to bake right away, let sit for 1 hour at room temperature to give bread time to absorb custard.
 1. While the bread and custard get to know eachother, mix together the crumble topping:
-  * 2 Oz. chopped nuts.
-  * 1/4 Cup all-purpose flour.
-  * 1/4 Cup packed light brown sugar.
-  * 1/4 Tsp. ground nutmeg.
-  * 1/4 Tsp. kosher salt.
-  * 4 Tbsp. softened **room temperature** butter.
+   * 2 Oz. chopped nuts.
+   * 1/4 Cup all-purpose flour.
+   * 1/4 Cup packed light brown sugar.
+   * 1/4 Tsp. ground nutmeg.
+   * 1/4 Tsp. kosher salt.
+   * 4 Tbsp. softened **room temperature** butter.
 1. After the bread and custard got to know eachother, head the oven to 350 F and arrange rack in the middle of the oven.
 1. While preheating, take casserole out, uncover, and set aside at room temperature for 30 minutes to remove some chill.
 1. After 30 minutes, sprinkle the crumble evenly on top and bake for 45 to 50 minutes.
