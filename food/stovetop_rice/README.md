@@ -28,7 +28,7 @@
 
 ## Notes
 
-1. It is optional to wash your rise before cooking. Washing rise will prevent the rice from clumping when you plate it. I personally like my rice a little clumpy.
+1. It is optional to wash your rice before cooking. Washing rice will prevent the rice from clumping when you plate it. I personally like my rice a little clumpy.
 1. The seasoned rice goes well with my [Butter Chicken Curry](../butter_chicken_curry/README.md) recipe.
 1. I use white rice simply because you can buy a 25 pound sack for $12. You can probably use any kind of (white) rice and have a similar outcome, but you'll have to be the judge of that.
 
