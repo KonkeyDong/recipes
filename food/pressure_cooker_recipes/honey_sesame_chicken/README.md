@@ -36,3 +36,7 @@
 1. Flip chicken breasts over.
 1. Pressure cook on **high pressure** for **25 minutes**.
 1. Natural release the pressure (do not open the steam valve. Just wait about 15 minutes with the power off for the termperature to drop; the pressure will drop along with the temperature.)
+
+# Lastly
+
+1. Shred the chicken in the sauce. Serve with rice and broccoli.
