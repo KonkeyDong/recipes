@@ -1,17 +1,18 @@
-# Apple Pie Baked Oatmeal
+# Baked Oatmeal (With Fruit)
 
 # Ingredients
 
 * **3 Cups (240 g)** old fashioned oats
 * **2 Scoops (60 g)** protein powder
 * **1 Teaspoon** baking powder
-* **4 Medium (600 g)** Honeycrisp Apples, peeled
+* **600 g** of fruit. (if using apples, use Honeycrisp, peeled)
 * **1/4 Cup (48 g)** brown sugar
-* **1 Tablespoon** cinnamon
 * **2 Tablespoons** butter
 * **2 Large** eggs
 * **2 Cups** milk
 * **2 Pounds** vanilla greek yogurt (use a high protein if necessary)
+
+If using apples, add **1 Tablespoon** cinnamon.
 
 # Recipe
 
@@ -20,6 +21,10 @@
 1. Wash and peel the apples. Cut them in half and remove the cores. Cut into thin slices (1/8 to 1/4 inch thick).
 1. Heat a large skillet over medium heat. Add 1 Tablespoon of butter and add the apples.
 1. Sprinkle the cinnamon and brown sugar over the top of the apples and stir. Cook until the sugar has reduced and the apples have become soft, about 10 minutes.
+
+## Other Fruit
+
+Follow the directions for apples above, but omit the cinnamon. Frozen fruit works well.
 
 ## For the Oatmeal Bake
 
