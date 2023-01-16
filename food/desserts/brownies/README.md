@@ -9,7 +9,8 @@
 * **1 Cup** Sugar.
 * **1 Cup** Flour.
 * **1 1/2 Cup** [Hershey Chocolate Syrup](https://www.hersheyland.com/products/hersheys-chocolate-syrup-24-oz-bottle.html)
-* **1/2 Cup** chopped nuts, such as Walnuts.
+* **(Optional) 1/2 Cup** chopped nuts, such as Walnuts.
+   * If you serve these brownies to friends out of the gracious of your heart and the chief complaint is about the walnuts, you might want to get new friends.
 * **1 Teaspoon** vanilla extract
 * **1/2 Teaspoon** baking powder
 
