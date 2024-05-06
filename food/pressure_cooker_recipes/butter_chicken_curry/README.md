@@ -2,10 +2,11 @@
 
 ## Ingredients
 
-- **1.75 - 2 Lbs.** boneless, skinless chicken thighs _cut into bite-size pieces_ (try not to exceed 2.5 Lbs. or the curry will end up bland)
+- **1.25 - 1.75 Lbs.** boneless, skinless chicken thighs (try not to exceed 2 Lbs. or the curry will end up bland)
 - **4 Tablespoons** (half a stick) of butter or _ghee_
 - **1 large yellow or white onion**, peeled and diced
 - **8-10 cloves of garlic**, minced (**DO NOT SKIP!!**)
+   - If you have garlic paste, **1/2 Teaspoon = 1 clove**.
 - **2 Tablespoons** of **fresh** grated ginger (**DO NOT SKIP!! DO NOT USE POWDER!!**)
 - **1 Tablespoon** of curry powder
 - **2 Teaspoons** of [garam masala](https://www.thespruceeats.com/what-is-garam-masala-995690) (check in the spice section)
@@ -17,11 +18,13 @@
 
 ## Instructions
 
+1. If you prefer your chicken in chunks, chop the chicken into 1" bite-sized pieces. If you like the chicken shredded, don't do any prep for the chicken.
+
 1. Place the butter, chopped onions, garlic, ginger, and all spices in the Instant Pot. Set on Sauté for 5 minutes. Stir to make sure the ingredients don't burn. Once the onions are soft, turn off.
 
 1. Pour 1/2 cup water into the pot. Then use a wooden spoon to scrub the debris off the bottom of the pot. (This ensures the burn notice will not go off!)
 
-1. Add the chopped chicken thighs and canned tomato sauce. Lock the lid into place and turn the Instant Pot on Pressure Cook High for 7 minutes. Once finished, turn the Instant Pot Off, then perform a Quick Release to release the steam pressure. Once the valve button drops, unlock the lid and remove.
+1. Add the chopped chicken thighs and canned tomato sauce. Lock the lid into place and turn the Instant Pot on Pressure Cook High for 7 minutes. Once finished, turn the Instant Pot Off, then perform a Quick Release to release the steam pressure. Once the valve button drops, unlock the lid and remove. **If you like your chicken shredded, set the timer to 10 minutes. Then, using two forks, pull the chicken apart.**
 
 1. Stir in the heavy cream. Set the Instant Pot on Sauté again and simmer for 2 minutes to thicken the sauce. Sprinkle with chopped cilantro and serve with [seasoned basmati rice](../stovetop_rice/README.md).
 

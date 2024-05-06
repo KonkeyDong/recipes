@@ -10,7 +10,7 @@
 
 ## Seasonings
 - **2 star anise**
-- **3 cardomom pods**, slightly cracked. 
+- **3 cardamom pods**, slightly cracked. 
   - Avoid opening the pods where the black seeds come out. The flavor is simply too strong and **will** be a turn off.
 - **salt & pepper** to taste.
 
