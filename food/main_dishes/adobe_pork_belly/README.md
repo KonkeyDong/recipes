@@ -24,3 +24,7 @@ Makes **four portions**.
 1. Put-in the **vinegar** and **simmer for 12 to 15 minutes**.
 1. Add salt to taste.
 1. **Serve hot**. Share and enjoy!
+
+## Credit
+
+https://panlasangpinoy.com/filipino-food-pork-adobo-recipe/#wprm-recipe-container-47218
