@@ -1,5 +1,7 @@
 # Pumpkin Bread
 
+Makes two loaves of pumpkin bread.
+
 ## Ingredients
 
 * **2 Cups** white sugar
