@@ -1,5 +1,7 @@
 # Chicken and Bisquick Dumplings
 
+This recipe is a **one-pot recipe**; it only dirties up one pot while preparing/cooking.
+
 # Ingredients
 
 * **8 Cups** chicken broth
